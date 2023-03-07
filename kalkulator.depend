@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1578847232 source:c:\users\lenovo\desktop\ii projekt pop\kalkulator\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1578850832 source:c:\users\lenovo\desktop\projekty i sem\pop\ii projekt pop\kalkulator\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1578847232 source:f:\studia\i semestr\projekty i sem\pop\ii projekt pop\kalkulator\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
